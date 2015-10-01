@@ -1,0 +1,86 @@
+.button {
+    border-radius: 5px;
+    padding: 15px 25px;
+    font-size: 22px;
+    position: relative;
+    width: 100px;
+    text-align: center;
+    display: inline-block;
+    height: auto;
+    text-decoration: none;
+    color: #ffffff;
+    border-width: 3px;
+    border-style: solid;
+}
+.button:hover {
+    color: #eeeeee;
+}
+.back {
+    background-color: #ff0000;
+    border-color: #a60000;
+}
+.back:hover {
+    background-color: #ff7373;
+}
+.forward {
+    background-color: #00cc00;
+    border-color: #008500;
+}
+.forward:hover {
+    background-color: #67e667;
+}
+.home {
+    background-color: #195aef;
+    border-color: #08359b;
+    width: 260px;
+    margin-top: 15px;
+    display: block;
+}
+.home:hover {
+    background-color: #00ebeb;
+}
+.inactive {
+    background-color: #cccccc;
+    border-color: #333333;
+}
+.inactive:hover {
+    color: #ffffff;
+}
+.link {
+    background-color: #30a0a0;
+    width: 300px;
+    margin: 10px;
+}
+.link:hover {
+    background-color: #30a0c0;
+}
+.rule {
+    background-color: #00eeaa;
+    width: 500px;
+    text-align: justify;
+    padding: 15px;
+    font-style: italic;
+    border-radius: 20px;
+    border-color: #009B70;
+    font-weight: bold;
+    color: #ff0000;
+    margin: 15px;
+    margin-left: 0px;
+    display: block;
+}
+.header {
+    font-weight: 400;
+    color: #6ef5f5;
+    background-color: #ff7400;
+    box-shadow: 10px 10px 5px #a64b00;
+    border-radius: 5px;
+    width: 250px;
+    padding: 15px;
+    text-align: center;
+}
+.illustration {
+    display: inline-block;
+    position: fixed;
+    left: 550px;
+    top: 0px;
+}
