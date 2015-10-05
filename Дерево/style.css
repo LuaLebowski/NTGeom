@@ -82,5 +82,13 @@
     display: inline-block;
     position: fixed;
     left: 550px;
-    top: 0px;
+    top: 100px;
+}
+.inline-link {
+    background-color: #ff6600;
+    color: #00a287;
+    display: inline-block;
+}
+.inline-link:hover {
+    background-color: #ffab73;
 }
